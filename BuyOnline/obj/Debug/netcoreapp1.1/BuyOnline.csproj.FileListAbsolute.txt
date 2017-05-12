@@ -1,0 +1,9 @@
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\bin\Debug\netcoreapp1.1\BuyOnline.deps.json
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\bin\Debug\netcoreapp1.1\BuyOnline.runtimeconfig.json
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\bin\Debug\netcoreapp1.1\BuyOnline.runtimeconfig.dev.json
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\bin\Debug\netcoreapp1.1\BuyOnline.dll
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\bin\Debug\netcoreapp1.1\BuyOnline.pdb
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\obj\Debug\netcoreapp1.1\BuyOnline.csprojResolveAssemblyReference.cache
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\obj\Debug\netcoreapp1.1\BuyOnline.AssemblyInfo.cs
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\obj\Debug\netcoreapp1.1\BuyOnline.dll
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnline\obj\Debug\netcoreapp1.1\BuyOnline.pdb

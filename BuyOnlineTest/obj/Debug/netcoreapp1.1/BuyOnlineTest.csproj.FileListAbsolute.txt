@@ -1,0 +1,14 @@
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\BuyOnlineTest.deps.json
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\BuyOnlineTest.runtimeconfig.json
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\BuyOnlineTest.runtimeconfig.dev.json
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\obj\Debug\netcoreapp1.1\BuyOnlineTest.csprojResolveAssemblyReference.cache
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\obj\Debug\netcoreapp1.1\BuyOnlineTest.AssemblyInfo.cs
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\BuyOnlineTest.dll
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\BuyOnline.dll
+c:\users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\BuyOnline.pdb
+C:\Users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\bin\Debug\netcoreapp1.1\BuyOnlineTest.pdb
+C:\Users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\obj\Debug\netcoreapp1.1\BuyOnlineTest.dll
+C:\Users\ceolaf\documents\visual studio 2017\Projects\BuyOnline\BuyOnlineTest\obj\Debug\netcoreapp1.1\BuyOnlineTest.pdb
